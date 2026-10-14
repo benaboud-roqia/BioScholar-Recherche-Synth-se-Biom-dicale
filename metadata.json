@@ -1,0 +1,6 @@
+{
+  "name": "BioScholar Research & Synthesis",
+  "description": "Biomedical publication search, AI article summarization with verifiable citations, bibliography export, and Gmail sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
