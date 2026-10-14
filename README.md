@@ -187,6 +187,7 @@ BioScholar respecte une esthétique de **laboratoire de recherche haut de gamme*
   - **JetBrains Mono** : Monospace avec chiffres tabulaires (`tabular-nums`) pour les identifiants, dates et statistiques.
 
 ---
+<img width="1383" height="807" alt="image" src="https://github.com/user-attachments/assets/9e116493-a2cf-4237-a2b5-9470f50138a6" />
 
 ## Avertissement Scientifique
 
